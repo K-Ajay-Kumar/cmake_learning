@@ -1,3 +1,0 @@
-/home/kyx1kor/ajay/cmake/cmake_learning/01_BASIC/out/build/CMakeFiles/hello.dir
-/home/kyx1kor/ajay/cmake/cmake_learning/01_BASIC/out/build/CMakeFiles/edit_cache.dir
-/home/kyx1kor/ajay/cmake/cmake_learning/01_BASIC/out/build/CMakeFiles/rebuild_cache.dir
